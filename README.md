@@ -17,3 +17,32 @@ HAL_HACK/
 ├── main_model.glb      # 3D model (from Blender)
 
 └── README.md           # Project documentation
+
+
+⚙️ Installation & Setup
+Follow these steps to set up and run the project locally:
+
+git clone https://github.com/tejasnaikj/hal_hack.git
+
+cd hal_hack
+
+if threejs and vite not installed, install using:
+
+# three.js
+
+npm install --save three@0.172.0
+
+# vite
+
+npm install --save-dev vite@6.2.2
+
+to run:
+
+npx vite
+
+ctrl+click on the 
+
+http://localhost:5173/ link
+
+
+
