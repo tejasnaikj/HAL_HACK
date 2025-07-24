@@ -19,7 +19,7 @@ HAL_HACK/
 └── README.md           # Project documentation
 
 
-#⚙️ Installation & Setup
+# ⚙️ Installation & Setup
 Follow these steps to set up and run the project locally:
 
 git clone https://github.com/tejasnaikj/hal_hack.git
@@ -36,13 +36,11 @@ npm install --save three@0.172.0
 
 npm install --save-dev vite@6.2.2
 
-# to run:
+# To run:
 
 npx vite
 
-ctrl+click on the 
-
-http://localhost:5173/ link
+ctrl + click on the link http://localhost:5173/ 
 
 
 
