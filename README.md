@@ -29,3 +29,11 @@ vite.config.js # Vite configuration
 
 
 README.md # Project documentation
+
+
+git clone https://github.com/tejasnaikj/hal_hack.git
+cd hal_hack
+node -v
+npm -v
+npm install
+npm run vite
