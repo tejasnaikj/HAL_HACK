@@ -1,5 +1,12 @@
-Welcome to HAL_HACK, a real-time Digital Twin simulation of the Bendix RSA Fuel Injection System used in helicopters.
-This project uses Blender for 3D modeling, Three.js for rendering, and Vite as the development build tool.
+# 🛩️ HAL_HACK — Digital Twin of Bendix RSA Fuel Injection System
+
+Welcome to **HAL_HACK**, a real-time **Digital Twin simulation** of the **Bendix RSA Fuel Injection System** used in helicopters.  
+This project uses **Blender** for 3D modeling, **Three.js** for rendering, and **Vite** as the development build tool.
+
+---
+
+## 📁 Repository Structure
+
 
 HAL_HACK/
 
