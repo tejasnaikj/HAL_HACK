@@ -106,7 +106,7 @@ let lastFuelFlowRate = 0;
 
 // --- GLTF Loading ---
 const loader = new GLTFLoader();
-loader.load('d1.glb', (gltf) => {
+loader.load('Main_model.glb', (gltf) => {
   gltf.scene.traverse((child) => {
     if (child.isMesh) {
       child.material.side = THREE.DoubleSide;
