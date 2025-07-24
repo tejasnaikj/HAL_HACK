@@ -3,8 +3,9 @@ This project uses Blender for 3D modeling, Three.js for rendering, and Vite as t
 
 hal_hack/
 ├── index.html          # Entry point
+
 ├── main.js             # Three.js simulation logic
+
 ├── main_model.glb      # 3D model (from Blender)
-├── package.json        # npm dependencies
-├── vite.config.js      # Vite configuration
+
 └── README.md           # Project documentation
