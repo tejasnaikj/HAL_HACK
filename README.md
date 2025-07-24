@@ -36,7 +36,7 @@ npm install --save three@0.172.0
 
 npm install --save-dev vite@6.2.2
 
-#to run:
+# to run:
 
 npx vite
 
